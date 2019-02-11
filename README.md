@@ -1,5 +1,6 @@
 # devops_aula02
 #Fabio Porchat
-#Fabio assunção
+#FAbio de Melo
 #Fabio Junior
+#FAbio Zika
 
